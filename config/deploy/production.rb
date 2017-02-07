@@ -60,3 +60,4 @@ set :ssh_options, keys: '~/.ssh/aws_terasawa_musicpost_rsa'
 #     auth_methods: %w(publickey password)
 #     # password: "please use keys"
 #   }
+
